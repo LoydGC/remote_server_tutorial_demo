@@ -17,7 +17,7 @@ Have these ready on your **local machine**:
 - Git installed
 - a terminal app
 - Python 3 installed locally (optional, but useful if you want to generate SSH keys)
-
+- **Note**: If you go through this tutorial at home, please install CMU VPN using this tutorial: https://www.cmu.edu/computing/services/endpoint/network-access/vpn/how-to/index.html
 ### Placeholders used in this tutorial
 
 Replace these with real values when course staff provides them:
