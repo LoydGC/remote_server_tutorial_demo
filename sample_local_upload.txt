@@ -1,1 +1,0 @@
-This is a sample file that students can upload from local machine to the server.
